@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392253968115",
+    "project_id": "eriportunika",
+    "storage_bucket": "eriportunika.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392253968115:android:73e80d41e342a3847ef186",
+        "android_client_info": {
+          "package_name": "com.example.e_report_unika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392253968115-iksrsi6qr468he3h1kaeodq858i8r2a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYBa5T4waOh_uv8kGtShMZbnKfrPHLwr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392253968115-iksrsi6qr468he3h1kaeodq858i8r2a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
